@@ -2,3 +2,5 @@ syntax: glob
 *.userprefs
 LoggingPostSharp/bin/
 LoggingPostSharp/obj/
+packages
+.localhistory
