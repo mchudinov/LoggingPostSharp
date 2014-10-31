@@ -1,0 +1,4 @@
+syntax: glob
+*.userprefs
+LoggingPostSharp/bin/
+LoggingPostSharp/obj/
