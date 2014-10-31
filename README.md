@@ -1,1 +1,1 @@
-Sample .NET Mono solution with logging using aspects from PostSharp. Using log4net for logging to syslog and console. Solution is compatible with Visual Studio 2012, Mono Develop 5, and Xamarin Studio 5.
+Sample .NET C# solution with logging using aspects from PostSharp. Using log4net for logging. Solution is compatible with Visual Studio 2012, MonoDevelop 5, and Xamarin Studio 5.
