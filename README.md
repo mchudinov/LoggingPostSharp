@@ -1,0 +1,1 @@
+Sample .NET C# solution with logging using aspects from PostSharp. Using log4net for logging. Solution is compatible with Visual Studio 2012, MonoDevelop 5, and Xamarin Studio 5.
